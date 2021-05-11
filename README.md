@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeWithPhany
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning AWS - so that i get better on the serverless
-- 💞️ I’m looking to collaborate on more female and non-binary people
+- 💞️ I’m looking to collaborate with more female and non-binary people
 - 📫 How to reach me Fanny.Andersson@yahoo.se 
 
 <!---
