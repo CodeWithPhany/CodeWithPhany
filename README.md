@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CodeWithPhany
 - 👀 I’m interested in all kinds of development
-- 🌱 I’m currently working in Typescript, AWS, GraphQl, Node.js - and i strive to learn more
-- 💞️ I’m looking forward to collaborate with more female and non-binary people
-- 📫 How to reach me Fanny.Andersson@yahoo.se 
+- 🌱 I’m currently working in Typescript, AWS, GraphQl, and Node.js - I strive to learn more
+- 💞️ I’m looking forward to collaborating with more females and non-binary people
+- 📫 How to reach me Fanny.Levin88@gmail.com 
 
 <!---
 CodeWithPhany/CodeWithPhany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
